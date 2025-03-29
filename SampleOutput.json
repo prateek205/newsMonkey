@@ -1,0 +1,196 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sarah Min",
+      "title": "Stock futures are little changed as traders brace for Fed’s preferred inflation reading: Live updates - CNBC",
+      "description": "Investors looked ahead to the latest reading of the personal consumption expenditures price index, due on Friday.",
+      "url": "https://www.cnbc.com/2025/03/27/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122223-1743092820414-Traders-Photo-KK-20250325-082.jpg?v=1743092913&w=1920&h=1080",
+      "publishedAt": "2025-03-28T10:31:00Z",
+      "content": "U.S. stock futures were flat Friday as investors grappled with ongoing tariff uncertainty and awaited the release of a key inflation measure.\r\nDow Jones Industrial Average futures slipped 19 points, … [+1563 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "Joe Rao",
+      "title": "What will happen during the partial solar eclipse of March 2025? - Space.com",
+      "description": "Observers across eastern North America and much of Europe will have front-row seats to the striking partial solar eclipse on March 29. Here's what to expect.",
+      "url": "https://www.space.com/what-will-happen-partial-solar-eclipse-march-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DVNp9oNywHTxsHSaRPBqsS-1200-80.jpg",
+      "publishedAt": "2025-03-28T10:05:36Z",
+      "content": "What a difference a year makes!\r\nJust a year ago, countless millions across North America were anxiously awaiting the \"great North American total eclipse of the sun\"\r\n on April 8. Now, less than a ye… [+9628 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Devan Cole, John Fritze",
+      "title": "Trump’s ‘state secrets’ claim over deportation flight details breaks with past practice - CNN",
+      "description": "The Justice Department’s decision to invoke the rarely used state secrets privilege in a bid to avoid giving a federal judge’s details on questions on two deportation flights has opened a complicated new front in the government’s ongoing resistance to turning…",
+      "url": "https://www.cnn.com/2025/03/28/politics/state-secrets-deportation-flight-explainer/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-james-boasberg-split.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-03-28T09:00:00Z",
+      "content": "The Justice Departments decision to invoke the rarely used state secrets privilege in a bid to avoid giving a federal judge details on two deportation flights has opened a complicated new front in th… [+11071 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Kirsten Grieshaber, Philip Crowther",
+      "title": "Vance and wife to tour US military base in Greenland after diplomatic spat over uninvited visit - The Associated Press",
+      "description": "U.S. Vice President JD Vance and his wife will be visiting an American military base in Greenland. The visit on Friday was revised after an initial three-day trip to the semi-autonomous Danish territory created uproar among Greenlanders and Danes who were irk…",
+      "url": "https://apnews.com/article/greenland-denmark-vance-visit-us-base-dd58fe169672042f803886da55ff3c0b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/37ab27d/2147483647/strip/true/crop/2855x1606+0+149/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Ff2%2F86d09b93c12bd2601998af9ed245%2F9814eb059705417cb6852bc55f95ad6c",
+      "publishedAt": "2025-03-28T08:59:00Z",
+      "content": "NUUK, Greenland (AP) U.S. Vice President JD Vance and his wife are due to visit an American military base in Greenland on Friday in a trip that was scaled back after an uproar among Greenlanders and … [+3395 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Webb Telescope Captures Neptune’s Long-Hidden Auroras in Stunning Detail - SciTechDaily",
+      "description": "Long-Sought Auroral Glow Finally Emerges Under Webb’s Powerful Gaze Neptune lies in the cold, dark reaches of the outer edges of our solar system, about 3 billion miles from the Sun, at the farthest edge of the planetary lineup. Only one spacecraft has ever f…",
+      "url": "https://scitechdaily.com/?p=465174",
+      "urlToImage": "https://scitechdaily.com/images/Neptune-Auroras-Hubble-and-Webb-Image.jpg",
+      "publishedAt": "2025-03-28T08:13:05Z",
+      "content": "Neptune’s elusive auroras have finally been captured in stunning detail by NASA’s James Webb Space Telescope. Using its powerful infrared capabilities, scientists detected glowing auroral activity un… [+9240 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Ben Berkowitz",
+      "title": "\"This is a revolution,\" Musk says of DOGE's government overhaul - Axios",
+      "description": "Until now, DOGE has mostly been a shadowy operation.",
+      "url": "https://www.axios.com/2025/03/27/musk-doge-revolution",
+      "urlToImage": "https://images.axios.com/nzeAYhaVCnsb1-JtoVTTjn8i-9g=/0x0:4000x2250/1366x768/2025/03/27/1743102235811.jpg",
+      "publishedAt": "2025-03-28T07:42:06Z",
+      "content": "Elon Musk described the Department of Government Efficiency's work as a \"revolution\" in his team's first interview on the department's behalf Thursday.\r\nWhy it matters: DOGE has forced out tens of th… [+2603 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "David Cobb",
+      "title": "2025 March Madness scores, takeaways: Texas Tech storms back, Duke holds on in NCAA Tournament Sweet 16 action - CBS Sports",
+      "description": "The Red Raiders overcame a 16-point second-half deficit to knock off Arkansas in overtime",
+      "url": "https://www.cbssports.com/college-basketball/news/2025-march-madness-scores-takeaways-texas-tech-storms-back-duke-holds-on-in-ncaa-tournament-sweet-16-action/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/03/28/cb60034e-f949-40fb-8578-9054f3f58ce1/thumbnail/1200x675/fe2b8d5f553aeaf8bce1d62d4923253e/tech-game-winner-1.jpg",
+      "publishedAt": "2025-03-28T05:17:31Z",
+      "content": "The second weekend of the NCAA Tournament started with a bang on Thursday, as No. 3 seed Texas Tech emerged from the first overtime game of the Big Dance with a thrilling 85-83 win over No. 10 seed A… [+1809 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Financial Times" },
+      "author": "Nian Liu, Joe Leahy",
+      "title": "China’s Xi Jinping meets foreign CEOs to urge trade stability - Financial Times",
+      "description": "Exhortation to ‘not blindly follow’ disruptive actions comes amid rising tensions with US",
+      "url": "https://www.ft.com/content/63c1ca09-9505-4086-9bbe-1b3642838605",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfdc80e1-cbf4-4181-98a1-0925bc56d788.jpg?source=next-barrier-page",
+      "publishedAt": "2025-03-28T05:12:07Z",
+      "content": "Markets Insights\r\nAccess expert analysis on global markets and economic trends.\r\nEconomist Perspectives\r\nInsights from leading economists and market strategists including Katie Martin and John Plende… [+276 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Hannah Schoenbaum, Mead Gruver",
+      "title": "What to know about Boulder, Colorado, the Sundance Film Festival’s new home - The Associated Press",
+      "description": "After four decades in Park City, Utah, the Sundance Film Festival is relocating to Boulder, Colorado. Organizers say the festival had outgrown Park City and lacked the necessary theaters and affordable housing to continue hosting what has become the nation's …",
+      "url": "https://apnews.com/article/sundance-film-festival-boulder-colorado-a1d0c7291feff2bfea887d5e0d480b6e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3a348a9/2147483647/strip/true/crop/3725x2095+0+194/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2Fa8%2F0080e2c7a4ac3f4f2892dd061df4%2F066bd510073e4ac19dabe9b6a1ffe0f6",
+      "publishedAt": "2025-03-28T04:47:00Z",
+      "content": "The Sundance Film Festival is Boulder bound, leaving its home of four decades in Park City, Utah, for a new chapter in neighboring Colorado.\r\nOrganizers announced their decision Thursday after a year… [+5149 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Inside NoVA" },
+      "author": "Kari Pugh",
+      "title": "UPDATED: East Coast's top MS-13 gang leader arrested in Dale City, feds say - InsideNoVa",
+      "description": "Federal agents and local law enforcement arrested the top East Coast leader of the MS-13 street gang in Dale City early Thursday morning.",
+      "url": "https://www.insidenova.com/headlines/updated-east-coasts-top-ms-13-gang-leader-arrested-in-dale-city-feds-say/article_624e5c49-980f-46fd-b5aa-4a1e4246e2ca.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/9/db/9db08d63-e27e-492e-b580-b8b9c62af3dd/67e6024f6fdde.image.jpg?crop=452%2C452%2C3%2C76&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2025-03-28T04:41:15Z",
+      "content": "Members of the FBIs SWAT team busted open the front and back doors and deployed a stun grenade in Thursday mornings arrest of a 24-year-old Dale City man the Trump administration calls one of the nat… [+4031 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Giddey's 47-ft, buzzer-beating heave stuns Lakers - ESPN",
+      "description": "Josh Giddey heaved a buzzer-beating 47-foot 3-pointer from half court to cap perhaps the wildest finish in the NBA this season, giving the Chicago Bulls a 119-117 victory over the Los Angeles Lakers on Thursday night.",
+      "url": "https://www.espn.com/nba/story/_/id/44437104/giddey-47-foot-buzzer-beater-lifts-red-hot-bulls-wild-win-lakers",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0328%2Fr1470331_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-03-28T04:17:00Z",
+      "content": "Mar 27, 2025, 11:17 PM ET\r\nCHICAGO -- Josh Giddey could feel it as soon as the ball left his fingertips. In a flash, teammates were mobbing him.\r\nGiddey's buzzer-beating half-court heave capped what … [+3994 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deseret News" },
+      "author": "Jackson Payne",
+      "title": "What Alabama's coach said about defeating BYU - Deseret News",
+      "description": "Alabama made an NCAA Tournament-record 25 3-pointers against BYU.",
+      "url": "https://www.deseret.com/sports/2025/03/27/byu-alabama-ncaa-tournament-nate-oats-postgame-comments/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/VLPHE2HZXRC7FBMX73NDCE3TSQ.jpg?focal=2105%2C784&auth=0f372cd566f6cb6e56b3340c5e7367af283f1e6cfffd8a036bfdab79d0cd238c&width=1200&height=630",
+      "publishedAt": "2025-03-28T04:14:00Z",
+      "content": "NEWARK, N.J. Nate Oats knew Mark Sears recent shooting slump couldnt persist.\r\nAfter Sears scored 34 points with 10 made 3-pointers Thursday against BYU in the Sweet 16, boy, was Oats correct.\r\nListe… [+2893 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Patrick Marley",
+      "title": "Trump urges support for Wisconsin Supreme Court candidate in unusual intervention - The Washington Post",
+      "description": "The race has become a proxy war over Trump’s agenda and has attracted record spending by Elon Musk and others.",
+      "url": "https://www.washingtonpost.com/politics/2025/03/27/trump-wisconsin-supreme-court-musk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W6Q3SPT4LSOTUAKE4APHESY7P4_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-03-28T03:19:00Z",
+      "content": "MADISON, Wis. President Donald Trump urged his supporters Thursday to help elect a conservative to the Wisconsin Supreme Court in a race that has become a proxy war over the presidents agenda.\r\nDurin… [+2125 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Josh Boak",
+      "title": "Noted economist honored by Trump warns that 25% tariffs risk 'irreparable damage' to US automakers - The Associated Press",
+      "description": "Noted economist Arthur Laffer warns in a new analysis that President Donald Trump’s 25% tariffs on auto imports could add $4,711 to the cost of a vehicle. Laffer says the proposed taxes could weaken the ability of U.S. automakers to compete with their foreign…",
+      "url": "https://apnews.com/article/trump-art-laffer-auto-tariff-warning-ba62f55af070e40e9d6eddf5d8433ad1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5f83964/2147483647/strip/true/crop/5272x2966+0+275/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2Fdf%2F7889b487a3e90d1c26c9358ff037%2F7d7fd515f9f3492c8ee4f2ade922dbc4",
+      "publishedAt": "2025-03-28T03:17:00Z",
+      "content": "WASHINGTON (AP) Noted economist Arthur Laffer warns in a new analysis that President Donald Trumps 25% tariffs on auto imports could add $4,711 to the cost of a vehicle, adding that the proposed taxe… [+3857 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Yolanda Saldívar denied parole 30 years after Selena murder conviction - BBC.com",
+      "description": "The music icon was shot and killed by the founder of her fan club, who has been denied her first attempt at parole in Texas.",
+      "url": "https://www.bbc.com/news/articles/c4gegv552nno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58cf/live/3a9164f0-0b7d-11f0-97aa-0b5a3120fc91.jpg",
+      "publishedAt": "2025-03-28T03:02:04Z",
+      "content": "The woman who murdered singer Selena Quintanilla-Perez was denied early release from prison in Texas on Thursday. \r\nYolanda Saldívar was sentenced to life in prison for the 1995 murder of the Tejano … [+2081 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Pavel Polityuk, Erin Banco, Gram Slattery and Andrea Shalal",
+      "title": "Putin suggests temporary administration for Ukraine to end war - Yahoo",
+      "description": "The terms of a mineral deal between Ukraine and the U.S. have not yet been finalised, Ukrainian officials said on Friday, after a summary of Washington's...",
+      "url": "https://www.yahoo.com/news/putin-suggests-temporary-administration-ukraine-020434757.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/f4c890de18abb28e13405d1ad6e5c112",
+      "publishedAt": "2025-03-28T02:04:00Z",
+      "content": "By Pavel Polityuk, Erin Banco, Gram Slattery and Andrea Shalal\r\nKYIV/WASHINGTON (Reuters) - The terms of a mineral deal between Ukraine and the U.S. have not yet been finalised, Ukrainian officials s… [+5823 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Abigail Hauslohner, Olivia George",
+      "title": "Judge orders Trump administration to preserve Signal chat about Yemen military operation - The Washington Post",
+      "description": "Judge James E. Boasberg, who has already drawn President Donald Trump’s ire, ordered national security agencies to preserve the records of a leaked group Signal chat, reportedly set to auto-delete.",
+      "url": "https://www.washingtonpost.com/national-security/2025/03/27/boasberg-signal-national-security-case-atlantic/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DXWIQGJ6KAOLOHGJVXJGZ4N4SM_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-03-28T02:01:57Z",
+      "content": "A federal judge on Thursday ordered the Trump administration to preserve the records of a Signalgroup chat about sensitive military operations in Yemen, an incident that has sparked a firestorm in Wa… [+6295 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Hans Nichols",
+      "title": "Fallout coming for House GOP over Trump's rug pull on Stefanik - Axios",
+      "description": "\"With a very tight Majority, I don't want to take a chance on anyone else running for Elise's seat.\"",
+      "url": "https://www.axios.com/2025/03/28/elise-stefanik-mike-johnson-trump-un-ambassador",
+      "urlToImage": "https://images.axios.com/5gRQJbBwswl5M6tM9dXYTlECyzc=/0x0:6000x3375/1366x768/2025/03/27/1743119382700.jpg",
+      "publishedAt": "2025-03-28T00:16:55Z",
+      "content": "President Trump's dramatic rug pull of Rep. Elise Stefanik's (R-N.Y.) UN ambassador nomination has given House Speaker Mike Johnson (R-La.) a new series of headaches.\r\nWhy it matters: Johnson has to … [+2762 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Filipe Espósito",
+      "title": "Instagram adds TikTok-like option to fast-forward Reels videos - 9to5Mac",
+      "description": "Meta on Thursday announced a new feature coming to Instagram users. More specifically, this new feature should benefit those who...",
+      "url": "https://9to5mac.com/2025/03/27/instagram-fast-forward-reels-videos/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/instagram-generic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-27T23:50:00Z",
+      "content": "Meta on Thursday announced a new feature coming to Instagram users. More specifically, this new feature should benefit those who like to watch Reels, Instagram’s short video platform that competes wi… [+1346 chars]"
+    }
+  ]
+}
