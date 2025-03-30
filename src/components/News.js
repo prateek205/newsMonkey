@@ -23,11 +23,11 @@ export class News extends Component {
       loading: false,
       page: 1,
     };
-    document.title = `NewsMonkey | ${this.props.category}`
+    document.title = `NewsMonkey | ${this.props.category}`;
   }
 
-  async updateNews(){
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=f2739e767f874cf0b7e2ed3d4f03ea78&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+  async updateNews() {
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -44,12 +44,12 @@ export class News extends Component {
   }
 
   handleNxtClick = async () => {
-    this.setState({page: this.state.page + 1})
+    this.setState({ page: this.state.page + 1 });
     this.updateNews();
-};
+  };
 
   handlePrevClick = async () => {
-    this.setState({page: this.state.page - 1})
+    this.setState({ page: this.state.page - 1 });
     this.updateNews();
   };
   render() {
@@ -61,14 +61,14 @@ export class News extends Component {
           {!this.state.loading &&
             this.state.articles.map((ele) => {
               return (
-                <div className="col md-3" key={ele.url}>
+                <div className="col-md-4" key={ele.url}>
                   <NewsItem
                     title={ele.title}
                     description={ele.description}
                     urlImage={ele.urlToImage}
                     url={ele.url}
                     author={ele.author}
-                    publishedAt={ele.publishedAt}
+                    date={ele.publishedAt}
                   />
                 </div>
               );
